@@ -118,6 +118,6 @@ Projet réalisé par : Lilou CHOUKROUN-BALZAN
 
 ## Sources
 
-☆ **[Wikipedia - Malaria](https://en.wikipedia.org/wiki/Malaria)**
-☆ **[Kaggle Dataset](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria/data)**
+☆ **[Wikipedia - Malaria](https://en.wikipedia.org/wiki/Malaria)**  
+☆ **[Kaggle Dataset](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria/data)**  
 ☆ **[Mayo Clinic - Malaria Symptoms & Causes](https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184)**
