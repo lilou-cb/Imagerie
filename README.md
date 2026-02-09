@@ -1,6 +1,6 @@
 # Détection de cellules atteintes de la Malaria - Analyse d'Image
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/Computer_Vision-OpenCV-green?style=flat&logo=opencv&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/Computer_Vision-OpenCV-green?style=flat&logo=opencv&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)![CI Status](https://github.com/lilou-cb/Imagerie/actions/workflows/ci_pipeline.yml/badge.svg)
 
 Ce projet est un outil d'imagerie biomédicale développé en Python. Il permet de détecter automatiquement la présence du parasite Plasmodium (responsable de la malaria) sur des images de frottis sanguins microscopiques.
 
