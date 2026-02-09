@@ -4,7 +4,7 @@
 
 Ce projet est un outil d'imagerie biomédicale développé en Python. Il permet de détecter automatiquement la présence du parasite Plasmodium (responsable de la malaria) sur des images de frottis sanguins microscopiques.
 
-L'algorithme utilise la vision par ordinateur (OpenCV) et la segmentation par couleur pour identifier les zones infectées sans nécessiter de modèles de Deep Learning complexes.
+L'algorithme utilise la vision par ordinateur (OpenCV) et la segmentation par couleur pour identifier les zones infectées sans nécessiter de modèles de Deep Learning complexes. (Ce qui permet une exécution ultra-rapide et peu gourmande en ressources CPU)
 
 ## Données (Dataset)
 
@@ -59,7 +59,7 @@ Puis appuyez sur n'importe quelle touche pour fermer la fenêtre de résultat.
 
 Pour traiter un grand nombre d'images à la suite et obtenir des statistiques globales.
 
-Cette commande permet d'analyser les images les unes après les autres et de fermer la fenêtre de résultat après chaque analyse. Ou de l'arreter à n'importe quel moment en appuyant sur q.
+Cette commande permet d'analyser les images les unes après les autres et de fermer la fenêtre de résultat après chaque analyse. Ou de l'arrêter à n'importe quel moment en appuyant sur q.
 ```bash
 python main.py chemin/vers/dossier/
 ```
@@ -112,9 +112,7 @@ PERCENTAGES:
 ============================================================
 ```
 
-## Auteure
-
-Projet réalisé par : Lilou CHOUKROUN-BALZAN
+Projet développé par : Lilou CHOUKROUN-BALZAN 
 
 ## Sources
 
